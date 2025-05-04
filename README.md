@@ -1,0 +1,1 @@
+Logarithmic analysis of Income wage against Education years
